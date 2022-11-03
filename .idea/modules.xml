@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aflevering/Aflevering.iml" filepath="$PROJECT_DIR$/Aflevering/Aflevering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek15_JavaFX/Lek15_JavaFX.iml" filepath="$PROJECT_DIR$/Lek15_JavaFX/Lek15_JavaFX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek16_JavaFX/Lek16_JavaFX.iml" filepath="$PROJECT_DIR$/Lek16_JavaFX/Lek16_JavaFX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek17_Spec/Lek17_Spec.iml" filepath="$PROJECT_DIR$/Lek17_Spec/Lek17_Spec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek18_Association/Lek18_Association.iml" filepath="$PROJECT_DIR$/Lek18_Association/Lek18_Association.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek18_Association2/Lek18_Association2.iml" filepath="$PROJECT_DIR$/Lek18_Association2/Lek18_Association2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programming1.iml" filepath="$PROJECT_DIR$/Programming1.iml" />
+    </modules>
+  </component>
+</project>

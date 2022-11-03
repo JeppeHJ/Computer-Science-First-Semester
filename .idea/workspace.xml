@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="375533db-25ea-4ef1-bd4f-91c0da43de69" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2G6qkxe6URduBlZ4uwbfOQQKer1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "last_opened_file_path": "C:/Users/jeppe/IdeaProjects/Programming1",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.completion"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jeppe\IdeaProjects\Programming1\Lek16_JavaFX\src\Opgave1" />
+      <recent name="C:\Users\jeppe\IdeaProjects\Programming1\Lek15_JavaFX\src\Opgave5" />
+      <recent name="C:\Users\jeppe\IdeaProjects\Programming1\Lek15_JavaFX\src\Opgave4" />
+      <recent name="C:\Users\jeppe\IdeaProjects\Programming1\Lek15_JavaFX\src\Opgave3" />
+      <recent name="C:\Users\jeppe\IdeaProjects\Programming1\Lek15_JavaFX\src\Opgave2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jeppe\IdeaProjects\Programming1\Lek18_Association2\src\Opgave4" />
+      <recent name="C:\Users\jeppe\IdeaProjects\Programming1\Lek18_Association2\src" />
+      <recent name="C:\Users\jeppe\IdeaProjects\Programming1\Lek18_Association\src" />
+      <recent name="C:\Users\jeppe\IdeaProjects\Programming1\Lek17_Spec\src" />
+      <recent name="C:\Users\jeppe\IdeaProjects\Programming1\Aflevering\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Opgave1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.model.SwimmerApp">
+    <configuration name="FlightTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="model.model.FlightTest" />
+      <module name="Lek15_JavaFX" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Flight.model.FlightTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Flight.model.FlightTest" />
+      <module name="Lek17_Spec" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Flight.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwimmerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Opgave4.SwimmerApp" />
+      <module name="Lek17_Spec" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Opgave4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="model.SwimmerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="model.SwimmerApp" />
+      <module name="Lek18_Association2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YatzyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Aflevering" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="yatzy.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="yatzy.model" />
+      <option name="MAIN_CLASS_NAME" value="yatzy.model.YatzyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.model.SwimmerApp" />
+        <item itemvalue="Application.Flight.model.FlightTest" />
+        <item itemvalue="Application.SwimmerApp" />
+        <item itemvalue="JUnit.YatzyTest" />
+        <item itemvalue="Application.FlightTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lek16_JavaFX/src/demo3listview/App.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lek16_JavaFX/src/Opgave1/Gui.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lek17_Spec/src/Flight/model/FlightTest.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
