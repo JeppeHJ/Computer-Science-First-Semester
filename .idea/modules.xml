@@ -3,11 +3,24 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Aflevering/Aflevering.iml" filepath="$PROJECT_DIR$/Aflevering/Aflevering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AfleveringKAS/AfleveringKAS.iml" filepath="$PROJECT_DIR$/AfleveringKAS/AfleveringKAS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AfleveringKAS2/AfleveringKAS2.iml" filepath="$PROJECT_DIR$/AfleveringKAS2/AfleveringKAS2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lek15_JavaFX/Lek15_JavaFX.iml" filepath="$PROJECT_DIR$/Lek15_JavaFX/Lek15_JavaFX.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lek16_JavaFX/Lek16_JavaFX.iml" filepath="$PROJECT_DIR$/Lek16_JavaFX/Lek16_JavaFX.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lek17_Spec/Lek17_Spec.iml" filepath="$PROJECT_DIR$/Lek17_Spec/Lek17_Spec.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lek18_Association/Lek18_Association.iml" filepath="$PROJECT_DIR$/Lek18_Association/Lek18_Association.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lek18_Association2/Lek18_Association2.iml" filepath="$PROJECT_DIR$/Lek18_Association2/Lek18_Association2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek19_DoubleAssociering/Lek19_DoubleAssociering.iml" filepath="$PROJECT_DIR$/Lek19_DoubleAssociering/Lek19_DoubleAssociering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek20_ControllerShit/Lek20_ControllerShit.iml" filepath="$PROJECT_DIR$/Lek20_ControllerShit/Lek20_ControllerShit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek27_Nedarvning/Lek27_Nedarvning.iml" filepath="$PROJECT_DIR$/Lek27_Nedarvning/Lek27_Nedarvning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek28_AbstrakteKlasser/Lek28_AbstrakteKlasser.iml" filepath="$PROJECT_DIR$/Lek28_AbstrakteKlasser/Lek28_AbstrakteKlasser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek29_ComparableInterface/Lek29_ComparableInterface.iml" filepath="$PROJECT_DIR$/Lek29_ComparableInterface/Lek29_ComparableInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek30_Search/Lek30_Search.iml" filepath="$PROJECT_DIR$/Lek30_Search/Lek30_Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek31_Sorting/Lek31_Sorting.iml" filepath="$PROJECT_DIR$/Lek31_Sorting/Lek31_Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek32_Alghorithms/Lek32_Alghorithms.iml" filepath="$PROJECT_DIR$/Lek32_Alghorithms/Lek32_Alghorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek33_ThrowExceptions/Lek33_ThrowExceptions.iml" filepath="$PROJECT_DIR$/Lek33_ThrowExceptions/Lek33_ThrowExceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek34_FletningAfSekvenser/Lek34_FletningAfSekvenser.iml" filepath="$PROJECT_DIR$/Lek34_FletningAfSekvenser/Lek34_FletningAfSekvenser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek35_SemesterProeve/Lek35_SemesterProeve.iml" filepath="$PROJECT_DIR$/Lek35_SemesterProeve/Lek35_SemesterProeve.iml" />
       <module fileurl="file://$PROJECT_DIR$/Programming1.iml" filepath="$PROJECT_DIR$/Programming1.iml" />
     </modules>
   </component>
